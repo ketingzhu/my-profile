@@ -1,0 +1,57 @@
+/* Color and fonts */
+.container {
+  width: 700px; /* set the width of your container */
+  margin: 40px auto; /* set margins: top/bottom: 40px; left/right: automatic */
+}
+
+.card-white {
+	width: 700px;
+	margin: 40px auto;
+	background-color: #f8f1f1;
+	border-radius:4px;
+	box-shadow: rgba(0,0,0,0.1)
+}
+
+.profilepic{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:150px;
+	border-radius: 50%;
+}
+
+body{
+	background: #f4f9f9;
+	color: #6494AA;
+	font-family: 'Roboto Slab', serif;
+	font-size: 18px; 
+	text-align: center;
+}
+
+h1{
+	color: #f875aa;
+	font-family: Staatliches; 
+	font-size: 32px;
+	text-align:center;
+}
+
+h2{
+	color: #fbaccc;
+	font-family: Oxygen;
+	font-size: 24px ;
+	font-weight: bold;
+}
+
+h3{
+	color:;
+	font-family: Oxygen;
+	font-size: 24px ;
+	font-weight: bold;	
+}
+
+
+div{
+	background: ;
+	border: ;
+	margin: ;
+}
